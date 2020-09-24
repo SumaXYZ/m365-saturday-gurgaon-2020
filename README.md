@@ -39,3 +39,7 @@ Thanks to all the attendees of M365Gurgaon.  Here, we are sharing the Presentati
 | 12  | Personnal and confidential data - how to manage them in O365 | Sébastien PAULET | [Slides](https://www.slideshare.net/ "Presentation") |
 | 13  | Navigating you way to different admin centres in Microsoft 365 | Chirag Patel | [Slides](https://www.slideshare.net/ "Presentation") |
 | 14  | Why (and How) my SP2013 IA needs to be redesigned for the future? | Jay Leask | [Slides](https://www.slideshare.net/ "Presentation") |
+
+## All Session Video Recordings
+
+### Coming Soon
