@@ -43,7 +43,7 @@ Thanks to all the attendees of M365Gurgaon.  Here, we are sharing the Presentati
 | 10  | Project Cortex: AI Powered Knowledge Network | Joel Oleson | [Slides](https://www.slideshare.net/ "Presentation") |
 | 11  | OneDrive Group Policies - Not only for the Enterprise | Hans Brender | [Slides](https://www.slideshare.net/ "Presentation") |
 | 12  | Personnal and confidential data - how to manage them in O365 | Sébastien PAULET | [Slides](https://www.slideshare.net/ "Presentation") |
-| 13  | Navigating you way to different admin centres in Microsoft 365 | Chirag Patel | [Slides](https://github.com/mstechcomin/m365-saturday-gurgaon-2020/blob/master/docs/Navigating%20you%20way%20to%20different%20admin%20centres%20in%20Microsoft%20365%20-%20Chirag%20Patel%20-%20M365SaturdayGurgaon%202020.pdf "Presentation") |
+| 13  | Navigating you way to different admin centres in Microsoft 365 | Chirag Patel | [Slides](https://github.com/mstechcomin/m365-saturday-gurgaon-2020/blob/master/docs/M365SaturdayGurgaon2020-Navigating_you_way_to_different_admin_centres_in_Microsoft365-ChiragPatel.pdf "Presentation") |
 | 14  | Why (and How) my SP2013 IA needs to be redesigned for the future? | Jay Leask | [Slides](https://www.slideshare.net/ "Presentation") |
 
 ## All Session Video Recordings
