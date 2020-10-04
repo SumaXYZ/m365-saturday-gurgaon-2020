@@ -31,20 +31,20 @@ Thanks to all the attendees of M365Gurgaon.  Here, we are sharing the Presentati
 
 | Sl# | Speaker Name | Session Title | Presentation / Links |
 |:---:|:-----------|:---------|:------------|
-| 1   | Become a Microsoft Teams rockstar | Gokan Ozcifci | [Slides](https://www.slideshare.net/ "Presentation") |
-| 2   | How to digitally enable Firstline workers with Teams | Aryak Singh, Srinidy Ravichandran | [Slides](https://www.slideshare.net/ "Presentation") |
-| 3   | Sensitivity labels in Microsoft 365 | NarasimaPerumal Chandramohan, Vinodha Ramji | [Slides](https://www.slideshare.net/ "Presentation") |
-| 4   | Advance Data Governance in Office 365 | Gaurav Dixit, Dushyant Sharma | [Slides](https://www.slideshare.net/ "Presentation") |
-| 5   | Return to workplace solution | Kishan Dubal, Shreyash Naithani | [Slides](https://www.slideshare.net/ "Presentation") |
-| 6   | SharePoint Spaces discovery: How to create a 3D entry space for your next company event | Patrick Guimonet | [Slides](https://www.slideshare.net/ "Presentation") |
-| 7   | What's new and what's next: SharePoint and OneDrive administration | Rk Menon, Karthik Gangidi, Sonia Gupta | [Slides](https://www.slideshare.net/ "Presentation") |
-| 8   | Microsoft Lists - Share and track information across Microsoft 365 | Saurabh Sood, Shreyansh Agrawal | [Slides](https://www.slideshare.net/ "Presentation") |
-| 9   | Security v Usability - The balance | Marijn Somers, Steve Dalby | [Slides](https://www.slideshare.net/ "Presentation") |
-| 10  | Project Cortex: AI Powered Knowledge Network | Joel Oleson | [Slides](https://www.slideshare.net/ "Presentation") |
-| 11  | OneDrive Group Policies - Not only for the Enterprise | Hans Brender | [Slides](https://www.slideshare.net/ "Presentation") |
-| 12  | Personnal and confidential data - how to manage them in O365 | Sébastien PAULET | [Slides](https://www.slideshare.net/ "Presentation") |
-| 13  | Navigating you way to different admin centres in Microsoft 365 | Chirag Patel | [Slides](https://github.com/mstechcomin/m365-saturday-gurgaon-2020/blob/master/docs/M365SaturdayGurgaon2020-Navigating_you_way_to_different_admin_centres_in_Microsoft365-ChiragPatel.pdf "Presentation") |
-| 14  | Why (and How) my SP2013 IA needs to be redesigned for the future? | Jay Leask | [Slides](https://www.slideshare.net/ "Presentation") |
+| 1   | Gokan Ozcifci | Become a Microsoft Teams rockstar | [Slides](https://www.slideshare.net/ "Presentation") |
+| 2   | Aryak Singh, Srinidy Ravichandran | How to digitally enable Firstline workers with Teams | [Slides](https://www.slideshare.net/ "Presentation") |
+| 3   | NarasimaPerumal Chandramohan, Vinodha Ramji | Sensitivity labels in Microsoft 365 | [Slides](https://www.slideshare.net/ "Presentation") |
+| 4   | Gaurav Dixit, Dushyant Sharma | Advance Data Governance in Office 365 | [Slides](https://www.slideshare.net/ "Presentation") |
+| 5   | Kishan Dubal, Shreyash Naithani | Return to workplace solution | [Slides](https://www.slideshare.net/ "Presentation") |
+| 6   | Patrick Guimonet | SharePoint Spaces discovery: How to create a 3D entry space for your next company event | [Slides](https://www.slideshare.net/ "Presentation") |
+| 7   | Rk Menon, Karthik Gangidi, Sonia Gupta | What's new and what's next: SharePoint and OneDrive administration | [Slides](https://www.slideshare.net/ "Presentation") |
+| 8   | Saurabh Sood, Shreyansh Agrawal | Microsoft Lists - Share and track information across Microsoft 365 | [Slides](https://www.slideshare.net/ "Presentation") |
+| 9   | Marijn Somers, Steve Dalby | Security v Usability - The balance | [Slides](https://www.slideshare.net/ "Presentation") |
+| 10  | Joel Oleson | Project Cortex: AI Powered Knowledge Network | [Slides](https://www.slideshare.net/ "Presentation") |
+| 11  | Hans Brender | OneDrive Group Policies - Not only for the Enterprise | [Slides](https://www.slideshare.net/ "Presentation") |
+| 12  | Sébastien PAULET | Personnal and confidential data - how to manage them in O365 | [Slides](https://www.slideshare.net/ "Presentation") |
+| 13  | Chirag Patel | Navigating you way to different admin centres in Microsoft 365 | [Slides](https://github.com/mstechcomin/m365-saturday-gurgaon-2020/blob/master/docs/M365SaturdayGurgaon2020-Navigating_you_way_to_different_admin_centres_in_Microsoft365-ChiragPatel.pdf "Presentation") |
+| 14  | Jay Leask | Why (and How) my SP2013 IA needs to be redesigned for the future? | [Slides](https://www.slideshare.net/ "Presentation") |
 
 ## All Session Video Recordings
 
