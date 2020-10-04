@@ -2,6 +2,12 @@
 
 Thanks to all the attendees of M365Gurgaon.  Here, we are sharing the Presentation links from all Speakers. Reach out to us on Twitter [@m365gurgaon](https://twitter.com/m365gurgaon "Microsoft 365 Gurgaon") for any further inputs (Hash tag #M365Gurgaon).
 
+## Session Presentations (Opening Note)
+
+| Sl# | Speaker Name | Session Title | Presentation / Links |
+|:---:|:-----------|:---------|:------------|
+| 1 | Gokan Ozcifci | Evolution of Office 365 | [Slides](https://www.slideshare.net/ "Presentation") |
+
 ## Session Presentations (Developer Track)
 
 | Sl# | Speaker Name | Session Title | Presentation / Links |
